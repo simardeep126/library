@@ -182,3 +182,36 @@
     border-right-color: var(--border);
   }
 }
+#client-holder {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  width: 100%;
+  min-height: 200px;
+  padding: 50px 0;
+}
+
+#client-holder .container {
+  display: block !important;
+}
+
+#client-holder .inner-content {
+  display: block !important;
+}
+
+#client-holder .logo-wrap {
+  display: block !important;
+}
+
+#client-holder .client-grid {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+#client-holder .client-grid img {
+  width: 120px;
+  height: auto;
+  display: block !important;
+}

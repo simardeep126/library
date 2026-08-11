@@ -10,9 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "pure-react-carousel": "^1.35.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "react-router-dom": "^7.18.2"
+    "react-pageflip": "^2.0.3",
+    "react-router-dom": "^7.18.2",
+    "react-slick": "^0.31.0",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
